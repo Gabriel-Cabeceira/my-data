@@ -60,63 +60,63 @@
             "name": "ASC Tools",
             "url-pages": "https://asc-tools.vercel.app/",
             "url-rep": "https://github.com/Gabriel-Cabeceira/asctools",
-            "print": "",
+            "print": "https://raw.githubusercontent.com/Gabriel-Cabeceira/my-data/master/images/projects-prints/asc-tools.jpeg",
             "github": true
         },
         {
             "name": "DIO Bank",
             "url-pages": "https://diobankgc.netlify.app/",
             "url-rep": "https://github.com/Gabriel-Cabeceira/dio-bank-front-end",
-            "print": "",
+            "print": "https://raw.githubusercontent.com/Gabriel-Cabeceira/my-data/master/images/projects-prints/diobank.jpeg",
             "github": true
         },
         {
             "name": "DIO Clone",
             "url-pages": "https://dio-clone-gc.vercel.app/login",
             "url-rep": "https://github.com/Gabriel-Cabeceira/dio-clone",
-            "print": "",
+            "print": "https://raw.githubusercontent.com/Gabriel-Cabeceira/my-data/master/images/projects-prints/dio-clone.jpeg",
             "github": true
         },
         {
             "name": "Git Find",
             "url-pages": "https://gitfind-six.vercel.app/",
             "url-rep": "https://github.com/Gabriel-Cabeceira/gitfind",
-            "print": "",
+            "print": "https://raw.githubusercontent.com/Gabriel-Cabeceira/my-data/master/images/projects-prints/gitfind.jpeg",
             "github": true
         },
         {
             "name": "Script Tool",
             "url-pages": "https://gabriel-cabeceira.github.io/scripts/",
             "url-rep": "https://github.com/Gabriel-Cabeceira/scripts",
-            "print": "",
+            "print": "https://raw.githubusercontent.com/Gabriel-Cabeceira/my-data/master/images/projects-prints/asc-script-tools.jpeg",
             "github": true
         },
         {
             "name": "Portfólio v2.0",
             "url-pages": "https://gabriel-cabeceira.github.io/portfolio/",
             "url-rep": "https://github.com/Gabriel-Cabeceira/portfolio",
-            "print": "",
+            "print": "https://raw.githubusercontent.com/Gabriel-Cabeceira/my-data/master/images/projects-prints/portfolio-v2.jpg",
             "github": true
         },
         {
             "name": "Portfólio v1.0",
             "url-pages": "https://gabriel-cabeceira.github.io/meu-portfolio/",
             "url-rep": "https://github.com/Gabriel-Cabeceira/meu-portfolio",
-            "print": "",
+            "print": "https://raw.githubusercontent.com/Gabriel-Cabeceira/my-data/master/images/projects-prints/portfolio-v1.jpeg",
             "github": true
         },
         {
             "name": "Pokedex",
             "url-pages": "https://gabriel-cabeceira.github.io/pokedex/",
             "url-rep": "https://github.com/Gabriel-Cabeceira/pokedex",
-            "print": "",
+            "print": "https://raw.githubusercontent.com/Gabriel-Cabeceira/my-data/master/images/projects-prints/pokedex.jpeg",
             "github": true
         },
         {
             "name": "Trilha CSS DIO",
             "url-pages": "https://gabriel-cabeceira.github.io/trilha-css-desafio-01-landing-page/",
             "url-rep": "https://github.com/Gabriel-Cabeceira/trilha-css-desafio-01-landing-page",
-            "print": "",
+            "print": "https://raw.githubusercontent.com/Gabriel-Cabeceira/my-data/master/images/projects-prints/css-class-dio.jpeg",
             "github": true
         }
     ],
